@@ -3,8 +3,8 @@
 # --------------------------------------
 
 nav:
-  logo: https://s2.loli.net/2023/05/11/dELhGotRNe4A26Z.jpg # image
-  display_title: true
+  logo: https://s3.bmp.ovh/imgs/2023/05/11/cdc5971b2b274938.jpg # image
+  display_title: false
   fixed: false # fixed navigation bar
 
 # Menu 目錄
