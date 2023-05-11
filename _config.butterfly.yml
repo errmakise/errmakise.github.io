@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: # image
+  logo: ![logo](logo_1)# image
   display_title: true
   fixed: false # fixed navigation bar
 
